@@ -1,4 +1,7 @@
-#random_signal_generator
+<https://github.com/pcdangio/random_signal_generator/archive/v1.0.zip>
+<https://github.com/pcdangio/random_signal_generator/archive/v1.0.tar.gz>
+
+# random_signal_generator
 
 random_signal_generator is a c++ library utility that generates a smooth, random data signal.
 
